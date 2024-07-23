@@ -1,0 +1,31 @@
+.box{
+    height: 100px;
+    width:100px;
+    margin: 5px;
+    border: 4px blue dotted;
+    display:inline-block;
+}
+body{
+    height:200vh;
+}
+.box1{
+    position:static;
+    font-style: italic;
+    text-align:center;
+}
+.box2{
+    position:sticky;
+    top: 30px;
+    left: 40px;
+    font-style:italic;
+    text-align:center;
+}
+.box4{
+    position:sticky;
+    top: 20px;
+    font-style:italic;
+    text-align:center;
+}
+.box5{
+    position:static;
+}

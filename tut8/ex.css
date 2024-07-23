@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+}
+.mycont{
+    border-color:brown;
+    border-width:10px;
+    border-style:dashed;
+    margin: 100px;
+    padding:40px;
+}
+.head{
+    border-color:yellowgreen;
+    border-width:8px;
+    border-style:dotted;
+    margin:50px;
+    padding:30px;
+}

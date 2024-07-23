@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Protest+Riot&display=swap');
+body{
+    margin:0;
+    height:200vh;
+    background-color: black;
+    color:white;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color:black;
+    color:white;
+}
+.navbar-left{
+    padding-left:20px;
+    margin-top:10px;
+}
+.navbar-right{
+    padding-right:20px;
+    display:flex;
+    align-items:center;
+}
+.anch{
+    padding:10px;
+    margin: 2px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:25px;
+    font-weight:bold;
+}
+.home{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    height:85vh;
+    background-color:black;
+    color:white;
+}
+.home-left{
+    width:50vw;
+    text-align:right;
+    padding-left:200px;
+}
+.home-right{
+    width:50vw;
+    padding-left:100px;
+}
+.head{
+    font-family: "Protest Revolution", sans-serif;
+    font-size:30px;
+}
+.para{
+    font-family: "Protest Riot", sans-serif;
+    font-size:20px;
+}
+.services{
+    text-align:center;
+    padding:50px;
+}
+.ser-head{
+    color:teal;
+    letter-spacing:3px;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+}
+.services-sub{
+    display:flex;
+    flex-direction:row;
+}
+.services-card{
+    border:teal solid;
+    padding:50px;
+    margin:50px;
+    width:300px;
+}
+.sc-head{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+}
+.sc-para{
+    font-family:cursive;
+    font-size:20px;
+}
+.contact{
+    text-align:center;
+}
+.contact-info{
+    font-family:cursive;
+}
+.social-icon-img{
+    height:60px;
+}
+.client-logo{
+    height:40px;
+}

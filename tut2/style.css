@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: cadetblue;
+}
+
+.my_container {
+    background-color:antiquewhite;
+    height:50em;
+    width: 50vw;
+    text-align:center;
+}

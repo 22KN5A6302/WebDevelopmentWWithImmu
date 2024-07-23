@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Rubik+Glitch+Pop&family=Workbench&display=swap');
+body{
+    text-align:center;
+}
+.head{
+    color:cadetblue;
+    font-family:'Workbench';
+    font-size:50px;
+    font-style:italic;
+    text-decoration:underline;
+    letter-spacing:20px;
+}
+.para{
+    color:firebrick;
+    font-family:'Rubik Glitch Pop';
+    font-size:40px;
+    font-style:italic;
+    text-decoration:underline;
+    letter-spacing:20px;
+    word-spacing:25px;
+}

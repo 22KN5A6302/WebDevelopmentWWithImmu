@@ -1,0 +1,79 @@
+body{
+    height:200vh;
+    background-color:black;
+    color:white;
+    background-image:url("https://archziner.com/wp-content/uploads/2020/01/dark-starry-sky-vintage-aesthetic-wallpaper-over-a-dark-forest-with-tall-trees.webp");
+    background-size:cover;
+}
+.navbar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.navbar-right{
+    padding:5px;
+}
+.navbar-left{
+    padding:10px;
+}
+.a-tag{
+    padding:5px;
+    font-family:cursive;
+    font-size:20px;
+}
+.home{
+    display:fl;
+    
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+.home-left{
+    width:50vw;
+    padding-left:200px;
+}
+.home-right{
+    width:50vw;
+    padding-left:100px;
+}
+.services{
+    text-align:center;
+}
+.ser-head{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(43, 102, 43);
+    font-size:40px;
+}
+.services-sub{
+    display:flex;
+    flex-direction:row;
+}
+.services-card{
+    border:solid rgb(57, 101, 57);
+    width:300px;
+    margin:60px;
+    padding:30px;
+    text-align:center;
+}
+.ser-card-head{
+    font-family:cursive;
+    font-size:30px;
+}
+.social-contact{
+    text-align:center;    font-family:cursive
+}
+.con-head{
+    color:rgb(43, 102, 43);
+    font-family:'Times New Roman', Times, serif;
+    font-size:35px;
+}
+.contact-info{
+    font-family:cursive;
+    font-size:12px;
+}
+.icon-img{
+    width:50px;
+}
+.ser-logo-img{
+    height:40px;
+}

@@ -1,0 +1,16 @@
+.cont{
+    border-color:royalblue;
+    border-width:8px;
+    border-style:dotted;
+    margin:300px;
+    padding:150px;
+    text-align:center;
+}
+.head{
+    border-width:10px;   
+    border-color:burlywood;
+    margin:40px;
+    border-style:double;
+    padding-top:30px;
+    padding-bottom:30px;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+body{
+    color:white;
+}
+.nav-prf{
+    width:80px;
+}
+.my-body{
+    height:100vh;
+    background-image: url("https://i.pcmag.com/imagery/articles/06bCxrcFE9WufPQRolrpTIv-11..v1634051596.jpg");
+    background-size:cover;
+}
+.nav-link{
+    font-family: "Anta", sans-serif;
+    color:white;
+}
+.nav-link:hover{
+    color:rgb(186, 186, 62);
+}
+.anchor{
+    margin-left:auto;
+}
+.box-left{
+    height:50px;
+    font-family:"Abel", sans-serif;
+    text-align:right;
+    padding-left:150px;
+}
+.body-sec{
+    height:85vh;
+    border:solid green 2px;
+}
+.box-para{
+    font-family: "Madimi One", sans-serif;
+    font-size:20px;
+}
